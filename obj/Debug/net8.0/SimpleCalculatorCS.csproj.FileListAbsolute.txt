@@ -1,0 +1,14 @@
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\bin\Debug\net8.0\SimpleCalculatorCS.exe
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\bin\Debug\net8.0\SimpleCalculatorCS.deps.json
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\bin\Debug\net8.0\SimpleCalculatorCS.runtimeconfig.json
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\bin\Debug\net8.0\SimpleCalculatorCS.dll
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\bin\Debug\net8.0\SimpleCalculatorCS.pdb
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.AssemblyInfoInputs.cache
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.AssemblyInfo.cs
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.csproj.CoreCompileInputs.cache
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.dll
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\refint\SimpleCalculatorCS.dll
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.pdb
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\SimpleCalculatorCS.genruntimeconfig.cache
+C:\Users\Acheron\Desktop\SimpleCalculatorCS\obj\Debug\net8.0\ref\SimpleCalculatorCS.dll
